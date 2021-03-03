@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(158, 155, 155);
+} 
+header h1 {
+    color: darkred;
+}
+#zone {
+    background-color:#425f77;
+    border: 8px solid rgb(56, 54, 54);
+    margin-top: 5em;
+
+}
+#ALeft{
+    border: 1px solid black;
+    width: 12em;
+    float: left;
+    margin-top: 10em;
+}
+#ALeft h2{
+    text-decoration: underline;
+}
+#ALeft p{
+        font-size: 20px;
+}
+#ARight{
+    border: 1px solid black;
+    width: 12em;
+    float: right;
+    margin-top: 10em;
+}
+#ARight h2{
+    text-decoration: underline;
+}
+#ARight p{
+        font-size: 20px;
+}
